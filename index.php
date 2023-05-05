@@ -1,11 +1,11 @@
-<!-- <?php
+<?php
 
 echo 'Hello World! from '. $_SERVER['REMOTE_ADDR'];
 
 ?>
- -->
 
-<!DOCTYPE html>
+
+<!-- <!DOCTYPE html>
  
 <html>
     <head>
@@ -18,3 +18,4 @@ echo 'Hello World! from '. $_SERVER['REMOTE_ADDR'];
         echo 'Hello World! from '. $_SERVER['REMOTE_ADDR'];
     </body>
 </html>
+ -->
