@@ -1,6 +1,6 @@
 <?php
 
-echo 'Hello World! from '. $_SERVER['REMOTE_ADDR'];
+echo 'Hello World! from '. $_SERVER['HTTP_CLIENT_IP'];
 
 ?>
 
